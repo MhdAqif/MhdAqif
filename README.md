@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h2 align="left">Web Developer</h2>
+<h2 align="left"></h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">👋 Hello! I'm Mohammed Aqif — a passionate self-learner.<br><br>🎓 I'm Graduate in Computer Science and currently diving deep into Django and React development.<br><br>💡 I love building clean, functional web apps and exploring powerful backend technologies.<br><br>📚 I’ve also worked with JavaScript, MongoDB,and Node.js,Express and I’m always eager to learn more.<br><br>📈 I believe in learning by doing and improving step-by-step.</p><br><br><h1>My Portfolio:<a target="_blank" href=""> Mohammed Aqif A </a>
+<p align="left">👋 Hello! I'm Mohammed Aqif — a passionate self-learner.<br><br>🎓 I'm Graduate in Computer Science .<br><br>💡 I love building clean, functional web apps and exploring powerful backend technologies.<br><br>📈 I believe in learning by doing and improving step-by-step.</p><br><br><h1>My Portfolio:<a target="_blank" href=""> Mohammed Aqif A </a>
 </h1>
 
 ###
