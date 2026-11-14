@@ -80,6 +80,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MhdAqif/MhdAqif/output/snake.svg" />
+</p>
+
 <h3 align="center">
   💡 Learn. Build. Automate. Secure. Repeat.
 </h3>
