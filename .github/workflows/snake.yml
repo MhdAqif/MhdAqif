@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: mr-rinshad
+          github_user_name: MhdAqif
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#00F7FF&color_dots=#161b22,#003847,#00708f,#00b8e6,#00f7ff
             dist/github-snake.svg
