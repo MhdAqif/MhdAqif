@@ -1,58 +1,85 @@
 <h1 align="center">Hi 👋, I'm Mohammed Aqif A</h1>
 
-###
+<h3 align="center">
+  MCA Student | Aspiring Network Engineer
+</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Exploring+Cloud+%26+DevOps;Learning+Linux+%26+Networking;Interested+in+Cybersecurity;Building+Real-World+Projects" />
+</p>
+
+<img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnliMmV3dHFqdjI4bnlzaHp2OXM4ZnMxNW1zZDFsM20ycjVzcGFhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+
+### 👨‍💻 About Me
+
+- 🎓 MCA Student (2026–2028).
+- 🎓 BSc Computer Science Graduate (2025).
+- ☁️ Interested in Cloud Computing and DevOps.
+- 🐧 Exploring Linux System Administration.
+- 🌐 Learning Networking and Infrastructure Management.
+- 🛠️ Learning through hands-on projects and practical experiments.
+- 📈 Believe in consistency, curiosity, and continuous learning.
 
 <br clear="both">
 
-<h2 align="left"></h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="257" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnliMmV3dHFqdjI4bnlzaHp2OXM4ZnMxNW1zZDFsM20ycjVzcGFhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-
-###
-
-<p align="left">👋 Hello! I'm Mohammed Aqif — a passionate self-learner.<br><br>🎓 I'm Graduate in Computer Science .<br><br>💡 I love building clean, functional web apps and exploring powerful backend technologies.<br><br>📈 I believe in learning by doing and improving step-by-step.</p><br><br><h1>My Portfolio:<a target="_blank" href=""> Mohammed Aqif A </a>
-</h1>
-
-###
+### 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="42" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="42" alt="django logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="42" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="42" alt="css logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="42" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="42" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+
+<img src="https://skillicons.dev/icons?i=linux,bash,ubuntu,python,docker,git,github,aws,nginx,postgresql,vscode" />
 
 </div>
 
-###
+### 💻 Technical Interests
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohmd-aqif/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="106" height="64" alt="linkedin logo"  />
-  </a>
-  <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="106" height="64" alt="twitter logo"  />
-  </a>
-  <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="106" height="64" alt="instagram logo"  />
-  </a>
+- Networking & System Administration
+- Cloud Infrastructure
+- DevOps & CI/CD
+- Linux Administration
+- Infrastructure Monitoring
+- Automation & Scripting
+
+### 🚀 Projects
+
+- **SoleVault** – Django-based E-commerce Application.
+- **Linux & Cloud Labs** – Hands-on experiments with Linux, networking, and cloud infrastructure.
+
+### 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MhdAqif&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhdAqif&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
 </div>
 
-###
+### 🔥 Contribution Streak
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MhdAqif&theme=tokyonight&hide_border=true" />
+
+</div>
+
+### 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/MhdAqif">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<h3 align="center">
+  💡 Learn. Build. Automate. Secure. Repeat.
+</h3>
