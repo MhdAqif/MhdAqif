@@ -44,24 +44,6 @@
 - **SoleVault** – Django-based E-commerce Application.
 - **Linux & Cloud Labs** – Hands-on experiments with Linux, networking, and cloud infrastructure.
 
-### 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MhdAqif&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhdAqif&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-### 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MhdAqif&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ### 🤝 Connect With Me
 
 <div align="center">
@@ -79,10 +61,7 @@
 </a>
 
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MhdAqif/MhdAqif/output/snake.svg" />
-</p>
+![snake](https://raw.githubusercontent.com/MhdAqif/MhdAqif/output/snake-purple.svg)
 
 <h3 align="center">
   💡 Learn. Build. Automate. Secure. Repeat.
