@@ -60,8 +60,11 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+<h2 align="center">👾 Contribution Snake</h2>
+<div align="center">
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/MhdAqif/MhdAqif/output/github-snake-dark.svg" width="100%" />
 </div>
-![snake](https://raw.githubusercontent.com/MhdAqif/MhdAqif/output/snake-purple.svg)
 
 <h3 align="center">
   💡 Learn. Build. Automate. Secure. Repeat.
